@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ==================== 1. ANIMATED HEADER ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=0D1117&custom_color_2=4C1D95&height=220&section=header&text=Pradnyesh&fontSize=44&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=000000&custom_color_2=1C1C1C&height=220&section=header&text=Pradnyesh&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
 
 <a href="https://pradnyesh.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&background=0D111700&center=true&vCenter=true&width=620&lines=ML+Engineer;Full-Stack+Developer;AI+Systems+Builder;Independent+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=E5E5E5&background=00000000&center=true&vCenter=true&width=620&lines=ML+Engineer;Full-Stack+Developer;AI+Systems+Builder;Independent+Builder" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -12,11 +12,11 @@
 </p>
 
 <p align="center">
-  <a href="https://pradnyesh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-pradnyesh.vercel.app-7C3AED?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/pradnyesh-s/"><img src="https://img.shields.io/badge/LinkedIn-pradnyesh--s-4F46E5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
-  <a href="https://x.com/Pradnyesh_25"><img src="https://img.shields.io/badge/X-@Pradnyesh__25-6366F1?style=flat-square&logo=x&logoColor=white&labelColor=0D1117" alt="Twitter" /></a>
-  <a href="mailto:workspace.pradnyesh@gmail.com"><img src="https://img.shields.io/badge/Email-workspace.pradnyesh@gmail.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Location-Mumbai%20%C2%B7%20Pune%2C%20India-581C87?style=flat-square&logo=google-maps&logoColor=white&labelColor=0D1117" alt="Location" />
+  <a href="https://pradnyesh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-pradnyesh.vercel.app-1C1C1C?style=flat-square&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/pradnyesh-s/"><img src="https://img.shields.io/badge/LinkedIn-pradnyesh--s-1C1C1C?style=flat-square&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" /></a>
+  <a href="https://x.com/Pradnyesh_25"><img src="https://img.shields.io/badge/X-@Pradnyesh__25-1C1C1C?style=flat-square&logo=x&logoColor=white&labelColor=000000" alt="Twitter" /></a>
+  <a href="mailto:workspace.pradnyesh@gmail.com"><img src="https://img.shields.io/badge/Email-workspace.pradnyesh@gmail.com-1C1C1C?style=flat-square&logo=gmail&logoColor=white&labelColor=000000" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Location-Mumbai%20%C2%B7%20Pune%2C%20India-1C1C1C?style=flat-square&logo=google-maps&logoColor=white&labelColor=000000" alt="Location" />
 </p>
 
 </div>
@@ -330,15 +330,15 @@ Contributed to the full-stack architecture integrating Llama models via the Cere
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=25Pradnyesh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0&icon_color=8B5CF6" width="390" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=25Pradnyesh&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FFFFFF&text_color=A3A3A3&icon_color=FFFFFF" width="390" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://streak-stats.demolab.com?user=25Pradnyesh&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6" width="390" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=25Pradnyesh&hide_border=true&background=0A0A0A&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=D4D4D4&sideLabels=8A8A8A&dates=8A8A8A" width="390" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=25Pradnyesh&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0" width="380" alt="Top Languages" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=25Pradnyesh&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FFFFFF&text_color=D4D4D4" width="380" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -350,7 +350,7 @@ Contributed to the full-stack architecture integrating Llama models via the Cere
 ## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-fast.vercel.app/?username=25Pradnyesh&theme=tokyonight&no-frame=true&column=6&margin_w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-fast.vercel.app/?username=25Pradnyesh&theme=flat&no-frame=true&column=6&margin_w=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -359,7 +359,7 @@ Contributed to the full-stack architecture integrating Llama models via the Cere
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://activity-graph.vercel.app/graph?username=25Pradnyesh&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=7C3AED&point=A78BFA&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://activity-graph.vercel.app/graph?username=25Pradnyesh&bg_color=0A0A0A&color=FFFFFF&line=FFFFFF&point=E5E5E5&area_color=181818&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
@@ -418,7 +418,7 @@ open_to:
 <br/>
 
 <a href="mailto:workspace.pradnyesh@gmail.com">
-  <img src="https://img.shields.io/badge/Get%20in%20Touch-workspace.pradnyesh@gmail.com-7C3AED?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Get In Touch" />
+  <img src="https://img.shields.io/badge/Get%20in%20Touch-workspace.pradnyesh@gmail.com-141414?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Get In Touch" />
 </a>
 
 </div>
@@ -427,6 +427,6 @@ open_to:
 
 <!-- ==================== 16. FOOTER ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=4C1D95&custom_color_2=0D1117&height=120&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=1C1C1C&custom_color_2=000000&height=120&section=footer" width="100%" alt="Footer" />
   <p align="center"><sub>Designed with precision &middot; Built with engineering rigor &middot; &copy; 2026 Pradnyesh</sub></p>
 </div>
